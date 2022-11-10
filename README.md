@@ -1,1 +1,0 @@
-# maven-github-project
